@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "name": "Maj.Dr.Harun  ",
+      "lecture": 1000,
+      "language": "Psychiatrists",
+      "requirement": "sun-tue",
+      "paid": 17000000000,
+      "project": "MBBS, MS (Urology), Advance Endoscopic & Laparoscopic Training in Singapore & Mumbai, Urologist, Central Hospital Limited",
+      "img" :"https://cerebralpalsynewstoday.com/wp-content/uploads/2017/06/shutterstock_52856165-921x480@2x.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Dr. Ahasan Uddin",
+      "lecture": 500,
+      "language": "Urologist",
+      "requirement": "wed-sat",
+      "paid": 17000000000,
+      "project": "MBBS (Dha), FCPS (Bd), FRCS (Glasg.), FRCS (Edin.) Diploma ",
+      "img" :"https://st2.depositphotos.com/46171552/46752/i/600/depositphotos_467525936-stock-photo-cheerful-doctor-standing-crossed-arms.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Dr. Liton Chandra",
+      "lecture": 800,
+      "language": "Psychiatrists",
+      "requirement": "sun-tue",
+      "paid": 17000000000,
+      "project": "MBBS, BCS, FCPS (Urology), Urologist",
+      "img" :"https://www.cdc.gov/diabetes/images/library/spotlights/Male-doctor-smiling-portrait-close-up-Med-Res-72991363.jpg"
+    },
+    {
+      "id": 4,
+      "name":"Dr. Farhana ",
+      "lecture": 500,
+      "language": "Pediatrics",
+      "requirement": "wed-sat",
+      "paid": 17000000000,
+      "project": "MBBS (Dhaka) M.Phil (Psychiatry), MD (Psychiatry), Psychiatrists",
+      "img" :"https://thumbs.dreamstime.com/b/smiling-female-doctor-holding-medical-records-lab-coat-her-office-clipboard-looking-camera-56673035.jpg"
+    },
+    {
+      "id": 5,
+      "name":"Dr. M. A. Afzal",
+      "lecture": 500,
+      "language": "Urologist",
+      "requirement": "sun-tue",
+      "paid": 17000000000,
+      "project": "MBBS, BCS (Health), MCPS (Psychiatry), FCPS (Psychiatry), Specialist-Psychiatry",
+      "img" :"https://post.healthline.com/wp-content/uploads/2019/01/Male_Doctor_732x549-thumbnail.jpg"
+    },
+    {
+      "id": 6,
+      "name":"Prof. Dr. Zahid",
+      "lecture": 1500,
+      "language": "Pediatrics",
+      "requirement": "wed-sat",
+      "paid": 17000000000,
+      "project": "MBBS, FCPS, PGIMER (Paediatrics), Child Specialist, Paediatrics",
+      "img" :"https://st3.depositphotos.com/10654668/13844/i/600/depositphotos_138445604-stock-photo-male-doctor-in-hospital.jpg"
+    }
+]

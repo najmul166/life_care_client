@@ -1,0 +1,59 @@
+.full{
+    display: grid;
+    grid-template-columns: 4fr ;
+
+}
+.fooder-container{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 10px;
+    border: 1px solid lightgray;
+    margin-right: 5px;
+    
+}
+@media only screen and (max-width:688px){
+    .fooder-container{
+        grid-template-columns: repeat(1,1fr);
+    }
+}
+@media only screen and (min-width:689px){
+    .fooder-container{
+        grid-template-columns: repeat(2,1fr);
+    }
+}
+@media only screen and (min-width:1200px){
+    .fooder-container{
+        grid-template-columns: repeat(3,1fr);
+    }
+}
+.fooder{
+    background-color: rgb(192, 217, 228);
+    border: 2px solid;
+    margin: 10px;
+    padding: 5px;
+    color: rgb(44, 38, 38);
+    border-radius: 20px;
+    height: 450px;
+    box-shadow: rgb(138, 110, 110);
+}
+.fooder img{
+    height: 120px;
+    width: 110px;
+    border-radius: 50%;
+
+}
+.cart-container{
+    border: 5px dimgrey;
+    background-color: rgb(221, 171, 171);
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 10px;
+}
+.btn-regular{
+    background-color: rgb(173, 153, 39);
+    width: 150px;
+    height: 30px;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    cursor: pointer;
+}
